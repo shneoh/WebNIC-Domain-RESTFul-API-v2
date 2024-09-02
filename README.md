@@ -5,6 +5,8 @@ Do take note there are two seperated environments (PROD and OTE), which only sup
 
 You can manage the API credentials in WebNIC Portal, Resource Access Management, API Management.
 
+> Namewrap platform is not supported.
+
 ## Preparations
 1. Download and install POSTMAN.
 2. Download the POSTMAN Collection JSON file from here.
